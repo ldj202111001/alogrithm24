@@ -1,3 +1,3 @@
 ## Alogrithm24
 
-print('contents Lee')
+contents Lee
